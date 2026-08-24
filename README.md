@@ -2,7 +2,7 @@
 
 An interactive LTV : CAC and cash-payback engine built on Alex Hormozi's money-model rules, made for live partner meetings — every number on the page is editable and the whole model recomputes instantly. State is encoded in the URL, so "Copy live link" hands anyone the exact scenario on screen.
 
-**Live app:** deployed on Vercel (see the repo's About link).
+**Live app:** https://money-model-desk.vercel.app
 
 ## The rules the page enforces
 
