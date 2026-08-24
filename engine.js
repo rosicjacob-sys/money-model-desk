@@ -27,7 +27,7 @@
     cac: 62,                   // $ paid to acquire one customer
     blendCC: 70,               // % of customers paying by credit card (Blend tab)
     simBudget: 10000,          // month-1 ad budget
-    simReinvest: 30,           // % of last month's gross profit reinvested in ads
+    simReinvest: 15,           // % of last month's gross profit reinvested in ads
     simFloor: true             // never spend less than the month-1 budget
   };
 
